@@ -21,4 +21,4 @@ class Solution:
             curr.next = ListNode(total % 10)
             curr = curr.next
 
-        return dummy.nexts
+        return dummy.next

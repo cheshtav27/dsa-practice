@@ -10,4 +10,4 @@ class Solution:
             else:
                 curr = curr.next
 
-        return heads
+        return head

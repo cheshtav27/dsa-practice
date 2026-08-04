@@ -10,4 +10,4 @@ class Solution:
                 if not stack or stack.pop() != pairs[ch]:
                     return False
 
-        return not stacks
+        return not stack
